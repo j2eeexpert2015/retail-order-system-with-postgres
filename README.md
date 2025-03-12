@@ -28,7 +28,7 @@ This project is a Spring Boot application that provides a RESTful API for managi
 
 * Java 17 or higher
 * Maven 3.6.0 or higher
-* Docker (if you want to use the Docker setup)
+* Docker 
 * PostgreSQL (if you want to run the application outside Docker)
 
 ### Installation
