@@ -36,7 +36,7 @@ This project is a Spring Boot application that provides a RESTful API for managi
 1.  **Clone the repository:**
 
 ```bash
-    git clone <repository_url>
+    git clone https://github.com/j2eeexpert2015/retail-order-system-with-postgres.git
     cd retail-order-system-with-postgres
 ```
 
